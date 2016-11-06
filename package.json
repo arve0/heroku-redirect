@@ -1,0 +1,24 @@
+{
+  "name": "heroku-redirect",
+  "version": "1.0.0",
+  "description": "Redirects to another URL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/heroku-redirect.git"
+  },
+  "keywords": [
+    "redirect",
+    "heroku"
+  ],
+  "author": "Arve Seljebu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arve0/heroku-redirect/issues"
+  },
+  "homepage": "https://github.com/arve0/heroku-redirect#readme"
+}
